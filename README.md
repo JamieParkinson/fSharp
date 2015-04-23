@@ -1,0 +1,1 @@
+Project Euler exercises completed in F#
