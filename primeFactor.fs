@@ -1,5 +1,6 @@
 let myN = 600851475143I
 
+// Using the Pollard rho algorithm for factoring
 let g x n = (x*x + 1I) % n
 
 let rec gcd a b = 
